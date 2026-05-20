@@ -52,10 +52,6 @@ This repository includes:
 dsa-java/
 │
 ├── Arrays/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
 ├── Strings/
 ├── LinkedList/
 ├── Stack/
