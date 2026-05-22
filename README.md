@@ -62,3 +62,20 @@ dsa-java/
 ├── DynamicProgramming/
 │
 └── README.md
+
+# DSA with Java 🚀
+
+## Problems Solved
+
+| Topic | Count |
+|--------|--------|
+| Arrays | 5 |
+| Strings | 0 |
+| LinkedList | 0 |
+
+## Topics Covered
+
+- Two Pointer
+- Sorting
+- Hashing
+- Arrays
